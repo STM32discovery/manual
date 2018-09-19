@@ -28,7 +28,7 @@ find the 'texane/stlink' repository under github
 
 ## Notes
 
-* base code writing and compiling should use IDE downloaded in "1"
+* base code writing and compiling should use IDE downloaded
 
 * generate .bin and .elf file format
 
